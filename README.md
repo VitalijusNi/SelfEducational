@@ -14,4 +14,4 @@ Advanced encryption.py - Upgraded versios of previous version of encryption pyth
 My last project Warriors.py  - 
 Made 2 warrior object and made them fight till death. Right now trying to upgrade.To make 4 warriors  and they would choose randomly a target to attack. Like it would be in arena.
 
-Right now, continue to learn more deeply about object programming in Python.
+Right now, continue to learn more deeply about object oriented programming in Python.
