@@ -15,4 +15,6 @@ Entered to an object oriented programming, made 2 warrior objects and made them 
 
 In Time project I've used object addition and substraction. (Not perfect code with substraction)
 
-Right now, continue to learn more deeply about object oriented programming in Python.
+Right now, continue to learn more deeply about object oriented programming in Python - Static method, custom exceptions.
+
+Also taking more to the advanced functions and lambda function.
