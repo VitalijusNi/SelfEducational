@@ -11,7 +11,8 @@ Encrypt to Unicode.py - Encrypting your message to UNICODE of letters.
 
 Advanced encryption.py - Upgraded versios of previous version of encryption pythone file, but now you can encrypt with specific encryption Key, and you get letters instead of numbers.
 
-My last project Warriors.py  - 
-Made 2 warrior object and made them fight till death. Right now trying to upgrade.To make 4 warriors  and they would choose randomly a target to attack. Like it would be in arena.
+Entered to an object oriented programming, made 2 warrior objects and made them fight till death.
+
+In Time project I've used object addition and substraction. (Not perfect code with substraction)
 
 Right now, continue to learn more deeply about object oriented programming in Python.
