@@ -37,16 +37,16 @@ class BankAccount(threading.Thread):
 
 threadLock = threading.Lock()
 
-doug = BankAccount("Doug", 1)
-paul = BankAccount("Paul", 100)
-sally = BankAccount("Sally", 50)
+mom = BankAccount("Mom", 1)
+dad = BankAccount("Dad", 100)
+sister = BankAccount("Sister", 50)
 
-doug.start()
-paul.start()
-sally.start()
+mom.start()
+dad.start()
+sister.start()
 
-doug.join()
-paul.join()
-sally.join()
+mom.join()
+dad.join()
+sister.join()
 
 print("Execution Ends")
