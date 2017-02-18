@@ -18,3 +18,5 @@ In Time project I've used object addition and substraction. (Not perfect code wi
 Right now, continue to learn more deeply about object oriented programming in Python - Static method, custom exceptions.
 
 Also taking more to the advanced functions and lambda function.
+
+BankAccount.py - learning more about threading, and there small project.
