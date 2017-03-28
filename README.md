@@ -21,4 +21,4 @@ Took more to the advanced functions and lambda function.
 
 BankAccount.py - learning more about threading, and there small project.
 
-Right now learning about regular expression functions.
+Right now learning about regular expression functions and SQlite3, will make a samall project with these.
