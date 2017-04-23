@@ -22,3 +22,7 @@ Took more to the advanced functions and lambda function.
 BankAccount.py - learning more about threading, and there small project.
 
 Right now learning about regular expression functions, SQlite3 and Tkinter (Python's GUI)  will make a samall project with these.
+
+Paint App.py - Made an something like paint App, used a lot of TkInter and Object orientet programming.
+
+Now will make student database using some regular expression, Sqlite3 and Tkinter.
