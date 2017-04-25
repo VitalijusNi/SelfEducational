@@ -23,6 +23,6 @@ BankAccount.py - learning more about threading, and there small project.
 
 Right now learning about regular expression functions, SQlite3 and Tkinter (Python's GUI)  will make a samall project with these.
 
-Paint App.py - Made an something like paint App, used a lot of TkInter and Object orientet programming.
+2017.04.23 - Paint App.py - Made a something like paint App, used a lot of TkInter and Object orientet programming.
 
-Now will make student database using some regular expression, Sqlite3 and Tkinter.
+2017.04.25 - Student Database.py -  Made a students information input app. Used TkInter, Regular expression (on Email and phone) and working with database Sqlite3.
