@@ -1,6 +1,7 @@
 # SelfEducational
 Projects made, while learning
 
+2017.04.26  - Right now learning Kivy and Django
 
 2017.04.25 - Student Database.py -  Made a students information input app. Used TkInter, Regular expression (on Email and phone) and working with database Sqlite3.
 
